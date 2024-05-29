@@ -248,7 +248,6 @@ ORDER BY bread_name ASC, meat_name ASC;
 ```
 
 - use CROSS JOIN to have all records from both tables
-    - [Cross](https://www.notion.so/Cross-148d6c868e7c4ea59be874d62b3d352e?pvs=21)
 
 ## Electric Bike Replacement
 
