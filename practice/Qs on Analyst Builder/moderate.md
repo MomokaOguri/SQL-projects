@@ -31,25 +31,12 @@ Each ID is 5 characters long.
 
 - data
     
-    id
-    
-    ---
-    
-    12345Johnny
-    
-    ---
-    
-    93829Sally
-    
-    ---
-    
-    20391Larry
-    
-    ---
-    
-    29324Valerie
-    
-    ---
+    | id |
+    | --- |
+    | 12345Johnny |
+    | 93829Sally |
+    | 20391Larry |
+    | 29324Valerie |
     
 
 ```sql
@@ -365,13 +352,10 @@ WHERE m.position LIKE '%Manager%'
 GROUP BY manager_id, manager_title;
 ```
 
-![Untitled](Questions%20on%20Analyst%20Builder%2006409d38d900499d9de697b048cc6c1c/Untitled.png)
-
-![Untitled](Questions%20on%20Analyst%20Builder%2006409d38d900499d9de697b048cc6c1c/Untitled%201.png)
 
 ## Food Divides Us
 
-In the United States, fast food is the cornerstone of it's very society. Without it, it would cease to exist.
+In the United States, fast food is the cornerstone of its very society. Without it, it would cease to exist.
 
 But which region spends the most money on fast food?
 
